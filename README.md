@@ -2,6 +2,8 @@
 
 A curated collection of study notes, lab guides, and practical resources for computer science and cybersecurity courses.
 
+This repository is actively maintained and updated regularly with new content and revisions.
+
 This repository serves as a central reference for academic materials, online courses, and technical self-study.
 
 ---
