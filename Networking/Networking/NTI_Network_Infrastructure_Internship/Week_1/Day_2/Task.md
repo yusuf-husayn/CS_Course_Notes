@@ -1,0 +1,3 @@
+- [mynextmove](https://www.mynextmove.org/explore/ip)
+- [personal-branding-canvas](https://bigname.pro/personal-branding-canvas/)
+- [blog.aweber](https://blog.aweber.com/learn/unique-selling-proposition.htm)
