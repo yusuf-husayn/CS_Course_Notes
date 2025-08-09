@@ -15,7 +15,7 @@
 ## cout 
 
 - cout is defined in `<iostream>` header file.
--  cout is•used to output something to the user.
+-  cout is used to output something to the user.
 - General form to accept single output :
              `cout << varName;`
 - General form to accept multiple  outputs:
