@@ -4,28 +4,29 @@
 # Printing
 ## cin
 
-● cin is defined in `<iostream>` header file.
-●  cin is used to accept the input from the user.
-● General form to accept single input :
+- cin is defined in `<iostream>` header file.
+-  cin is used to accept the input from the user.
+- General form to accept single input :
              `cin >> varName;`
-● General form to accept multiple  inputs:
+- General form to accept multiple  inputs:
     `cin >> var1 >> var2 >> ... >> varN;`
 
 
 ## cout 
 
-● cout is defined in `<iostream>` header file.
-●  cout is•used to output something to the user.
-● General form to accept single output :
+- cout is defined in `<iostream>` header file.
+-  cout is•used to output something to the user.
+- General form to accept single output :
              `cout << varName;`
-● General form to accept multiple  outputs:
+- General form to accept multiple  outputs:
     `cout << var1 << "Some String" << var2 << endl;`
 
 ---
 # Comments
-● Comments are for the reader, not the compiler
+- Comments are for the reader, not the compiler
 
-● Two types:
+- Two types:
+  
 ○ Single line
 ```cpp
 // This is a C++ program. It prints the sentence:
