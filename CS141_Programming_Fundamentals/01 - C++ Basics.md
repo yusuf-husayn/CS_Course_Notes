@@ -334,7 +334,7 @@ A
 | \ x + Hex num | Character with given hex code   |
 | \0            | Null character (NUL)            |
 
-![[ASCII Table.png]]
+<img width="1692" height="1123" alt="Image" src="https://github.com/user-attachments/assets/71c9caa2-96da-4787-9be4-6d471459c301" />
 
 ---
 ## Function(Structure)
