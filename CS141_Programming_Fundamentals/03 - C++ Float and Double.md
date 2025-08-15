@@ -99,16 +99,18 @@ X2 = 3
 ## ● IEEE 754 Representation
 
 ### ○ Float 32 bit
-
-1bit                     ←8 bit→                                                   ←23 bits→
+```
+1bit               ←8 bit→                         ←23 bits→
 ■                  ■■■■■■■■                  ■■■■■■■■■■■■■■■■■■■■■■■
-⬆ sign          ⬆ exponent                       ⬆ mantissa
-
+⬆sign             ⬆exponent                ⬆mantissa
+```
+```
 ### ○ Double 64 bit
 
-1bit                     ←11 bit→                                                 ←52 bits→
+1bit               ←11 bit→                        ←52 bits→
 ■                  ■■■■■■■■                  ■■■■■■■■■■■■■■■■■■■■■■■
-⬆ sign          ⬆ exponent                       ⬆ mantissa
+⬆sign             ⬆exponent                ⬆mantissa
+```
 
    ○ Eg. ==> 85.125
 
@@ -118,12 +120,12 @@ X2 = 3
 85.125 ==> 1010101.001 ==> 1.010101001 x 2^6
 
  ○ Float 32 bit
-
-1bit                     ←8 bit→                                                   ←23 bits→
+```
+1bit               ←8 bit→                         ←23 bits→
 ■                  ■■■■■■■■                  ■■■■■■■■■■■■■■■■■■■■■■■
-0                    6 + 127 = 133                                                   010101001
-0                    10000101                            01010100100000000000000
-
+0                  6 + 127 = 133                     010101001
+0                  10000101                  01010100100000000000000
+```
 
 ```cpp
 #include <iostream>  
@@ -201,13 +203,13 @@ return 0;
 
                       x=x-1    x-- or --x
 
-● When an increment or decrement operator precedes its operand, the increment or decrement operation is performed before obtaining the value  
-of the operand for use in the expression. If the operator follows its operand, the value of the operand is obtained before incrementing or decrementing it
+● When an increment or decrement operator precedes its operand, the increment or decrement operation is performed before obtaining the value of the operand for use in the expression. If the operator follows its operand, the value of the operand is obtained before incrementing or decrementing it
 
 | x = 10;<br>y = ++x; | x = 10;<br>y = x ++ | x = 10;<br>y = --x | x = 10;<br>y = x-- |
 | ------------------- | ------------------- | ------------------ | ------------------ |
 | Sets y to 11        | Sets y to 10        | Set y to 9         | Set y to 10;       |
-The precedence of the arithmetic operators:
+
+● The precedence of the arithmetic operators:
 
 | Operators (ordered)        | Associativity | Degree  |
 | -------------------------- | ------------- | ------- |
@@ -220,6 +222,7 @@ The precedence of the arithmetic operators:
 | &&                         | left to right |         |
 | \|\|                       | left to right |         |
 | = += -= *= /= %=           | right to left | Lowest  |
+
 Eg.1
 ```cpp
 #include <iostream>  
