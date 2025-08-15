@@ -8,9 +8,12 @@
 ● The general form of initialization is:  
             `type variable_name = value;`
 
-● Examples
+● Examples:
+
    ○ char ch = 'a';
+   
    ○ int first = 0;  
+   
    ○ float balance = 123.23;
 
 1) Copy Initialization
