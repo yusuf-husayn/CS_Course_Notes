@@ -130,6 +130,7 @@ ninja: build stopped: subcommand failed.
 ● You use a modifier to alter the meaning of the base type.
 
 ● The list of modifiers is shown here:
+
    ○ signed  
    ○ unsigned  
    ○ long  
@@ -157,7 +158,7 @@ ninja: build stopped: subcommand failed.
 | float              | 4                     | +/-3.4e+/-38 (~7                                                                                           |
 | double             | 8                     | +/-1.7e+/-308 t (~1                                                                                        |
 | long double        | 16                    | +/-1.1e+/-4932 (~18–                                                                                       |
-| unsigned char      | 1                                                                                                                                  |
+| unsigned char      | 1                     | 0 to 255                                                                                                   |
 | unsigned int       | 4                     | 0 to 4                                                                                                     |
 | unsigned long long | 8                     | 0 to 18,446,744,07                                                                                         |
 | string             | ∞                                                                                                                                  |
@@ -287,6 +288,7 @@ value that may be modified by the program.
             `type variable_list;`
 
 ● Here are some declarations:
+
    ○ int i,j,l;  
    ○ short int si;  
    ○ unsigned int ui;
@@ -413,6 +415,7 @@ X = 10
 | %        | Modulus                       |
 | --       | Decrement                     |
 | ++       | Increment                     |
+
 ● When you apply / to an integer any remainder will be truncated.   
      For example, 5/2 will equal 2 in integer division.
 
