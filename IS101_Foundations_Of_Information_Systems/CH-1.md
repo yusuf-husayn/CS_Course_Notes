@@ -2,27 +2,39 @@
 
 ## 1) Data
 Raw facts, such as an employee number, total hours worked in a week, inventory part numbers, or sales orders.
-![[Data.png]]
+<img width="1070" height="298" alt="Image" src="https://github.com/user-attachments/assets/9c28a252-5c76-40b9-96c9-a6f5d82d6353" />
 
 ---
 ## 2) Information
 A collection of facts organized in such a way that they have additional value beyond the value of the individual facts.
-![[Information.png]]
+<img width="940" height="186" alt="Image" src="https://github.com/user-attachments/assets/0b7deca3-c27b-488a-b046-425b268e19ff" />
 
 ### ● Characteristics of Valuable Information :
+
    ○ Relevant
+
    ○ Complete
+
    ○ Accurate
+
    ○ Current/Timely
+
    ○ Economical
+
    ○ Accessible
 
 ### ● Determining the Value of Information :
+
    ○ Measurements
+
     ■ Time saved, lower costs
+
     ■ More accurate forecasts
+
     ■ Improved service
+
    ○ Often difficult to quantify
+
    ○ Payback period?
 
 ---
@@ -32,7 +44,7 @@ A set of logically related tasks performed to achieve a defined outcome.
 ---
 ## 4) Knowledge
 The awareness and understanding of a set of information and can be made useful to support a specific task or reach a decision.
-![[Knowledge.png]]
+<img width="1372" height="759" alt="Image" src="https://github.com/user-attachments/assets/982e2156-26bf-4b19-8889-92cce9dc40ed" />
 
 ---
 ## 5) System
@@ -50,7 +62,7 @@ The control elements guide the system. It is the decision-making subsystem that 
 
    **○ Feedback:**
 Feedback measures output against a standard in some form of procedure that includes communication and control. Feedback may be positive or negative, routine or informational. Positive feedback reinforces the performance of the system. It is routine in nature. Negative feedback generally provides the controller with information for action.
-![[Processing.png]]
+<img width="1012" height="291" alt="Image" src="https://github.com/user-attachments/assets/3712a0b2-fe26-4ad9-9248-bbcef114cd01" />
 
    **○ Environment:**
 The environment is the “supra-system” within which an organization operates. It is the source of external elements that impinge on the system. In fact, it often determines how a system must function.
@@ -60,36 +72,48 @@ A system should be defined by its boundaries- the limits that identify its compo
 
 ### ● Types of System:
    **○ Physical or Abstract Systems:**
-      **■ Physical:**
+
+      ■ Physical:
     systems are tangible entities that may be static or dynamic in operation.
-      **■ Abstract:**
+
+      ■ Abstract:
       systems are conceptual or nonphysical entities. They may be formulas of relationships among sets of variables or models – the abstract conceptualization of physical situations.
 
    **○ Open or Closed Systems:**
-       **■ Open:**
+
+       ■ Open:
        system has many interfaces with its environment. It permits interaction across its boundaries; it receives inputs from and delivers outputs to the outside.
-       **■ closed:**
+
+       ■ closed:
        system is isolated from environment influences.
 
    **○ Deterministic and Probabilistic:**
-     **■ Deterministic:**
+
+     ■ Deterministic:
      system is one in which the occurrence of all events is perfectly predictable. If we get the description of the system state at a particular time, the next state can be easily predicted.
-     **■ Probabilistic:**
+
+     ■ Probabilistic:
      system is one in which the occurrence of events cannot be perfectly predicted.
 
 ### ● System Performance:
+
    **○ Efficiency:**
+
      ■ A measure of what is produced divided by what is consumed.
 
    **○ Effectiveness:**
+
     ■ A measure of what is achieved divided by the stated goal.
 
 ### ● System Variables and Parameters:
+
    **○ System Variable:**
+
        ■ A quantity or item that can be controlled by the decision maker (controllable).
           • e.g. selling price
 
    **○ System Parameter:**
+
      ■ A value or quantity that cannot be controlled by the decision maker.
         • e.g. raw material costs
 
@@ -99,6 +123,7 @@ A system should be defined by its boundaries- the limits that identify its compo
 Components that work together to process data and produce information (to help companies solve problems and make decisions).
 
 ### ● Components of an IS:
+
    **○ Data:** 
 Input that the system takes to produce information
 
@@ -118,12 +143,19 @@ IS professionals who design, construct, operate and maintain IS. And end users w
 are the strategies, policies, methods and rules for using computer based information systems.
 
 ### ●Types of Business Information Systems
+
    ○ Transaction Processing
+
    ○ E-Commerce
+
    ○ Workflow
+
    ○ Enterprise Resource Planning
+
    ○ Management Information
+
    ○ Decision Support
+
    ○ Artificial Intelligence/Expert
 
 ---
@@ -135,21 +167,29 @@ Prediction future events to avoid problems.
 A single set of hardware, software, databases, telecommunications, People, and procedures that are configured to collect, manipulate, store, and process data into information.
 
 ### ● The Components of a CBIS:
+
    ○ Hardware
+
    ○ Software
+
      ■ Operating systems
      ■ Applications
+
    ○ Databases
+
    ○ Telecommunications/Networks
+
    ○ People
+
    ○ Procedures
 
-![[CBIS.png]]
+<img width="839" height="657" alt="Image" src="https://github.com/user-attachments/assets/ce4d1586-b630-4116-9f37-adfbc7755dd6" />
 
 ---
 ## Strategy Levels
 
 ### ● Operational management level:
+
    ○ The operational level is concerned with performing day-to-day business transactions of the organization.
 
    ○ Examples of users at this level of management include cashiers at a point of sale, bank tellers, nurses in a hospital, customer care staff, payroll system etc.
@@ -157,25 +197,29 @@ A single set of hardware, software, databases, telecommunications, People, and p
    ○ Users at this level make structured decisions. This means that they have defined rules that guide them while making decisions.
 
 ### ● Tactical Management Level:
+
    ○ Middle-level managers, heads of departments, supervisors, dominate this organization level. The users at this level usually oversee the activities of the users at the operational management level.
 
    ○ Tactical users make semi-structured decisions. The decisions are partly based on set guidelines and judgmental calls.
 
 ### ● Strategic Management Level
+
    ○ This is the most senior level in an organization. The users at this level make unstructured decisions. Senior level managers are concerned with the long-term planning of the organization. They use information from tactical managers and external data to guide them when making unstructured decisions
 
 ---
 ## 9) Transaction Processing
+
 ### ● Transaction:
  Any business related exchange, Tend to be routine, labor-intensive, “Interactions”
 
 ### ● Transaction processing system (TPS):
 The application of information technology to routine, repetitive, and usually ordinary business transactions
-![[TPS.png]]
+<img width="949" height="427" alt="Image" src="https://github.com/user-attachments/assets/c4c360d8-82d9-40a3-beea-fd4663538788" />
 
 ### ● Transaction processing systems are used to record day-to-day business transactions of the organization. Users at the operational management level use them. The main objective of a transaction processing system is to answer routine questions such as;
 
    ○ How printers were sold today?
+
    ○ How much inventory do we have at hand?
 
 ### ● The decisions made by operational managers are routine and highly structured.
@@ -183,9 +227,13 @@ The application of information technology to routine, repetitive, and usually or
 ### ● The information produced from the transaction processing system is very detailed.
 
 ### ● Examples of transaction processing systems include;
+
    ○ Point of Sale Systems – records daily sales
+
    ○ Payroll systems – processing employees' salary, loans management, etc.
+
    ○ Stock Control systems – keeping track of inventory levels
+
    ○ Airline booking systems – flights booking management
 
 ---
@@ -196,30 +244,43 @@ The application of information technology to routine, repetitive, and usually or
 
    ○ For example, input from a point of sale system can be used to analyze trends of products that are performing well and those that are not performing well. This information can be used to make future inventory orders i.e. increasing orders for well-performing products and reduce the orders of products that are not performing well.
    
-![[MIS.png]]
+<img width="758" height="623" alt="Image" src="https://github.com/user-attachments/assets/9f843dda-9362-4b2c-bddf-7f435e8dbec7" />
 
 ### ● Management Information System:
+
    ○ Used to provide routine information to help managers plan, control, and make decisions
 
 ### ● Characteristics:
+
    ○ Focus on operational efficiency
+
    ○ Supports functional areas
+
    ○ Common database
-   ○ Standard reports...
+
+   ○ Standard reports.
 
 ### ● Types of Reports:
+
    ○ Scheduled
+
    ○ Demand
+
    ○ Exception
 
-### ● Examples of management information systems include;
+### ● Examples of management information systems include:
+
    ○ Sales management systems – they get input from the point of sale system
+
    ○ Budgeting systems – gives an overview of how much money is spent within the organization for the short and long terms.
+
    ○ Human resource management system – overall welfare of the employees, staff turnover, etc.
 
 ---
 ## 11) Enterprise resource planning {ERP} system
+
 ### ● Integrated programs that can manage a company’s entire set of business operations
+
 ### ● Often coordinate planning, inventory control, production and ordering
 
 ---
