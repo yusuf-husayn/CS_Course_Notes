@@ -44,3 +44,9 @@ NTI - Network Infrastructure Internship
 ## 🔒 License
 
 This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 📌 Note:
+
+This repo will be updated continuously.
